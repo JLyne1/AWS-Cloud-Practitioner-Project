@@ -8,15 +8,11 @@
 
 ## Goal
 
-\---
-
 To develop practical experience with AWS cloud services while studying for the AWS Certified Cloud Practitioner (CLF-C02) certification.
 
 
 
 ## Services Planned
-
-\---
 
 * IAM
 * VPC
@@ -31,8 +27,6 @@ To develop practical experience with AWS cloud services while studying for the A
 
 ## Project Phases
 
-\---
-
 1. Environment Setup
 2. Identity and Access Management
 3. Virtual Private Cloud
@@ -46,8 +40,6 @@ To develop practical experience with AWS cloud services while studying for the A
 
 
 ## Cost Objective
-
-\---
 
 Target Cost: £0.00
 Maximum Allowable Cost: £5.00

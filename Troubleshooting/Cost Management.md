@@ -4,13 +4,13 @@
 
 ###### Budget Goal
 
-£0.00
+$0.00
 
 
 
 ###### Maximum Spend
 
-£5.00
+$5.00
 
 
 
@@ -21,4 +21,18 @@
 * Monitor billing dashboard
 * Configure AWS Budget alerts
 * Avoid paid networking services
+
+
+
+###### Primary Cost Protection
+
+* AWS Billing and Cost Management - Zero Spend Budget ($0.00)
+* Alerts if $0.01 is spent
+
+
+
+###### Secondary Cost Protection
+
+* AWS Billing and Cost Management - Monthly Cost Budget ($5.00)
+* Alerts if >85%, 100%, >100% of budget is spent
 

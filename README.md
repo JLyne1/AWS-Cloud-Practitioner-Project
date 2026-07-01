@@ -44,3 +44,16 @@ To develop practical experience with AWS cloud services while studying for the A
 Target Cost: £0.00
 Maximum Allowable Cost: £5.00
 
+
+
+## Cost Tracking
+
+
+
+|DAY|MONTHLY SPEND|
+|-|-|
+|DAY 0|$0.00|
+|DAY 1|$0.00|
+
+
+

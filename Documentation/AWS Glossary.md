@@ -6,7 +6,10 @@
 |-|-|
 |Region|A geographical location containing at least three Availability Zones (AZs)|
 |Availability Zone (AZ)|One or more data centres within a Region|
-|||
+|IAM User|Identity with long-term account permissions|
+|IAM User Group|A collection of IAM users with long-term permissions applied to that group|
+|IAM Policy|An IAM object in AWS that defines collections of permissions|
+|IAM Role|Identity with short-term permissions for users, applications or services|
 
 
 

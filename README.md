@@ -27,8 +27,8 @@ To develop practical experience with AWS cloud services while studying for the A
 
 ## Project Phases
 
-1. Environment Setup
-2. Identity and Access Management
+1. Environment Setup ✓
+2. Identity and Access Management ✓
 3. Virtual Private Cloud
 4. Compute Services
 5. Storage Services
@@ -54,6 +54,7 @@ Maximum Allowable Cost: £5.00
 |-|-|
 |DAY 0|$0.00|
 |DAY 1|$0.00|
+|DAY 2|$0.00|
 
 
 

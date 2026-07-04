@@ -10,6 +10,11 @@
 |IAM User Group|A collection of IAM users with long-term permissions applied to that group|
 |IAM Policy|An IAM object in AWS that defines collections of permissions|
 |IAM Role|Identity with short-term permissions for users, applications or services|
+|VPC|A logically isolated virtual network within AWS|
+|Subnet|A subdivision of a VPC|
+|CIDR (Classless Inter-Domain Routing)|Method of defining IP address ranges|
+|IGW (Internet Gateway)|Allows communication between a VPC and the internet|
+|Route Table|Defines where network traffic is directed|
 
 
 

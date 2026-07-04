@@ -21,7 +21,18 @@
 ###### \# Day 2 - Identity and Access Management (IAM):
 
 * AWS IAM - Created IAM user group 'Administrators', attaching the AdministratorAccess managed policy.
-* AWS IAM - Created IAM user 'JLyne-admin', and added them to Administrators user group.
+* AWS IAM - Created IAM user, and added them to Administrators user group.
 * Logged in as IAM user, and will do so from now on unless root user account is needed.
 * Verified access to EC2, IAM, S3, and Billing and Cost Management dashboards.
+
+
+
+###### \# Day 3 - Building an Amazon VPC:
+
+* VPCs - Created aws-lab-vpc, with IP address 10.0.0.0/16.
+* Subnets - Created public-subnet-a within aws-lab-vpc, with IP address 10.0.1.0/24.
+* Subnets - Enabled 'Auto-assign public IPv4 address' for public-subnet-a.
+* Internet gateways - Created aws-lab-igw and attached it to aws-lab-vpc.
+* Route tables - Created public route table and added 0.0.0.0/0 route to IGW.
+* Route tables - Associated public-subnet-a with public-route-table.
 

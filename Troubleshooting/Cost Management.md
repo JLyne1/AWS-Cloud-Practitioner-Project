@@ -36,3 +36,12 @@ $5.00
 * AWS Billing and Cost Management - Monthly Cost Budget ($5.00)
 * Alerts if >85%, 100%, >100% of budget is spent
 
+
+
+###### Observation - Day 5
+
+* Monthly Cost Budget displayed $0.67 usage.  AWS Bills identified Amazon EBS gp3 provisioned storage as the source.
+* Zero Spend Budget remained at $0, indicating usage had not exceeded the Free Tier threshold.
+
+
+

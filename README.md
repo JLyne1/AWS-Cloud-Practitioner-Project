@@ -50,13 +50,13 @@ Maximum Allowable Cost: £5.00
 
 
 
-|DAY|MONTHLY SPEND|
-|-|-|
-|DAY 0|$0.00|
-|DAY 1|$0.00|
-|DAY 2|$0.00|
-|DAY 3|$0.00|
-|DAY 4|$0.00|
+|DAY|SERVICE USAGE / ESTIMATED COST|MONTHLY SPEND|
+|-|-|-|
+|DAY 0|$0.00|$0.00|
+|DAY 1|$0.00|$0.00|
+|DAY 2|$0.00|$0.00|
+|DAY 3|$0.00|$0.00|
+|DAY 4|$0.67|$0.00|
 
 
 

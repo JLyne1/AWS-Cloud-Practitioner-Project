@@ -17,7 +17,7 @@
 |Route Table|Defines where network traffic is directed|
 |AMI (Amazon Machine Image)|A template used to launch EC2 instances|
 |EC2 Instance|A virtual server running in AWS|
-|Security Group|A virtual firewall attached to AWS resources|
+|Security Group|A stateful virtual firewall attached to AWS resources|
 |Key Pair|Public/private keys used for SSH authentication|
 
 

@@ -42,10 +42,22 @@
 
 * Key Pairs - Created aws-lab-key.pem, and stored it outside of Git repository.
 * Instances - Created instance aws-lab-web-server, using Amazon Linux 2023 AMI and t3.micro instance type.
-* Instances - Created security group aws-lab-web-sg.
+* Security Groups - Created security group aws-lab-web-sg.
 * Instances - Successfully launched aws-lab-web-server.
 * Windows PowerShell unable to establish SSH connection with aws-lab-web-server - See Day 4/Issue 1 in Troubleshooting.
 * Used SSH within Windows PowerShell to connect to aws-lab-web-server.
 * Web server hostname confirmed as ip-10-0-1-54.eu-west-2.compute.internal.
 * Pings were unsuccessful, but curl commands performed as expected.
+
+
+
+###### \# Day 5 - Deploying a Web Server on EC2:
+
+* Used SSH within Windows PowerShell to connect to aws-lab-web-server.
+* Connection successful, and updated the Amazon Linux package.
+* Installed and started Apache HTTP Server.
+* Used 'curl http://localhost' to confirm Apache is active and running.
+* Created a simple HTML page in the Apache document root - '/var/www/html/'.
+* Confirmed web page loads in web browser.
+* Billing and Cost Management - Noticed my Monthly Cost Budget as accrued $0.67 in 'Amount used' - will detail in Cost Management.md.
 

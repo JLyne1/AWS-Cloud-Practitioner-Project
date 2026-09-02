@@ -5,7 +5,7 @@
 |**TERM**|**DEFINITION**|
 |-|-|
 |Region|A geographical location containing at least three Availability Zones (AZs)|
-|Availability Zone (AZ)|One or more data centres within a Region|
+|AZ (Availability Zone)|One or more data centres within a Region|
 |IAM User|Identity with long-term account permissions|
 |IAM User Group|A collection of IAM users with long-term permissions applied to that group|
 |IAM Policy|An IAM object in AWS that defines collections of permissions|
@@ -21,6 +21,7 @@
 |Key Pair|Public/private keys used for SSH authentication|
 |HTTP (Hypertext Transfer Protocol)|Protocol commonly used to transfer web content|
 |Apache HTTP Server|Web server software that responds to HTTP requests|
+|S3 Bucket|Object storage container for unstructured data|
 
 
 

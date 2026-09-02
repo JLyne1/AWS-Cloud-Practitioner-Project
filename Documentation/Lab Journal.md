@@ -61,3 +61,14 @@
 * Confirmed web page loads in web browser.
 * Billing and Cost Management - Noticed my Monthly Cost Budget as accrued $0.67 in 'Amount used' - will detail in Cost Management.md.
 
+
+
+###### \# Day 6 - Creating S3 Bucket:
+
+* Created S3 bucket 'aws-clf-project-jlyne', enabling Block Public Access and versioning.
+* Uploaded two test files: 'project-notes.txt' and 'test-file.txt' to the bucket.
+* Locally modified 'project-notes.txt' and uploaded it to the bucket, replacing the old version.
+* Original version of 'project-notes.txt' is kept.
+
+
+

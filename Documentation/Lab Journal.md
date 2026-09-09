@@ -51,6 +51,12 @@
 
 
 
+* Steps for accessing EC2 instance through PowerShell:
+1. Change directory to aws-lab-key.pem location.
+2. ssh -i .\\aws-lab-key.pem ec2-user@<public\_IP\_Address>
+
+
+
 ###### \# Day 5 - Deploying a Web Server on EC2:
 
 * Used SSH within Windows PowerShell to connect to aws-lab-web-server.
@@ -65,10 +71,19 @@
 
 ###### \# Day 6 - Creating S3 Bucket:
 
-* Created S3 bucket 'aws-clf-project-jlyne', enabling Block Public Access and versioning.
-* Uploaded two test files: 'project-notes.txt' and 'test-file.txt' to the bucket.
+* Buckets - Created S3 bucket 'aws-clf-project-jlyne', enabling Block Public Access and versioning.
+* Buckets - Uploaded two test files: 'project-notes.txt' and 'test-file.txt' to the bucket.
 * Locally modified 'project-notes.txt' and uploaded it to the bucket, replacing the old version.
-* Original version of 'project-notes.txt' is kept.
+* Original version of 'project-notes.txt' is retained.
 
 
+
+###### \# Day 7 - Monitoring and Logging with CloudWatch and CloudTrail:
+
+* Connected to EC2 web server using SSH in Microsoft Powershell.
+* Metrics - Tracking 'CPUUtilization'.
+* Ran 'sudo dnf update -y' in server to create trackable activity.
+* CloudWatch Alarms - Created CPUUtilization alarm, 'aws-lab-high-cpu-alarm', to trigger when CPUUtilisation is greater than 80%.
+* CloudWatch Alarms - Set no alarm action to be taken as CPU usage of server should not be capable of exceeding 80%.
+* CloudTrail Event history - Screenshotted event history, noting the most recent is the PutMetricAlarm event.
 

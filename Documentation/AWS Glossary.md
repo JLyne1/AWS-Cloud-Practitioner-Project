@@ -22,6 +22,8 @@
 |HTTP (Hypertext Transfer Protocol)|Protocol commonly used to transfer web content|
 |Apache HTTP Server|Web server software that responds to HTTP requests|
 |S3 Bucket|Object storage container for unstructured data|
+|CloudWatch Metric|A numerical measurement over time|
+|CloudWatch Log|A detailed record of an event or message|
 
 
 

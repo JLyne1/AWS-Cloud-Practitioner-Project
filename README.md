@@ -33,7 +33,7 @@ To develop practical experience with AWS cloud services while studying for the A
 4. Compute Services ✓
 5. Storage Services ✓
 6. Monitoring and Logging ✓
-7. Security Review
+7. Security Review ✓
 8. Serverless Computing
 9. Documentation and Review
 
@@ -59,7 +59,7 @@ Maximum Allowable Cost: £5.00
 |DAY 4|$0.57|$0.00|
 |DAY 5|$1.34|$0.00|
 |DAY 6|$1.34|$0.00|
-|DAY 7||$0.00|
+|DAY 7|$1.34|$0.00|
 
 
 

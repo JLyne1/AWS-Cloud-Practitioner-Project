@@ -40,6 +40,6 @@ $5.00
 
 ###### Observation - Day 5
 
-* Monthly Cost Budget displayed $0.67 usage.  AWS Bills identified Amazon EBS gp3 provisioned storage as the source.
-* Zero Spend Budget remained at $0, indicating usage had not exceeded the Free Tier threshold thanks to AWS-supplied credits.
+* Monthly Cost Budget displayed $0.67 usage.  AWS Credits identified Amazon EC2 and VPC as the source.
+* Zero Spend Budget remained at $0, indicating usage had not exceeded the Free Tier threshold thanks to $100 of AWS-supplied credits.
 

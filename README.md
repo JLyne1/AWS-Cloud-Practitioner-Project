@@ -32,7 +32,7 @@ To develop practical experience with AWS cloud services while studying for the A
 3. Virtual Private Cloud ✓
 4. Compute Services ✓
 5. Storage Services ✓
-6. Monitoring and Logging
+6. Monitoring and Logging ✓
 7. Security Review
 8. Serverless Computing
 9. Documentation and Review
@@ -50,15 +50,16 @@ Maximum Allowable Cost: £5.00
 
 
 
-|DAY|MONTHLY SPEND|
-|-|-|
-|DAY 0|$0.00|
-|DAY 1|$0.00|
-|DAY 2|$0.00|
-|DAY 3|$0.00|
-|DAY 4|$0.00|
-|DAY 5|$0.00|
-|DAY 6|$0.00|
+|DAY|CREDIT USAGE (CUMULATIVE)|MONTHLY SPEND|
+|-|-|-|
+|DAY 0|$0.00|$0.00|
+|DAY 1|$0.00|$0.00|
+|DAY 2|$0.00|$0.00|
+|DAY 3|$0.01|$0.00|
+|DAY 4|$0.57|$0.00|
+|DAY 5|$1.34|$0.00|
+|DAY 6|$1.34|$0.00|
+|DAY 7||$0.00|
 
 
 

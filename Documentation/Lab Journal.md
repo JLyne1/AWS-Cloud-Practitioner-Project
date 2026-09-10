@@ -87,3 +87,17 @@
 * CloudWatch Alarms - Set no alarm action to be taken as CPU usage of server should not be capable of exceeding 80%.
 * CloudTrail Event history - Screenshotted event history, noting the most recent is the PutMetricAlarm event.
 
+
+
+###### \# Day 8 - Account Security Review:
+
+* Logged in as root user and confirmed MFA is enabled and the root user has no active access keys.
+* IAM Users - Confirmed the following for IAM account: MFA is enabled; Administrators user group is active; AdministratorAccess policy is attached; access history is correct with no suspicious activity.
+* Security group - Logged in as IAM user and confirmed security group rules are all correct.
+* Network ACLs - Default ACL is associated with my VPC, with broad inbound and outbound rules.
+* S3 bucket - Confirmed all public access is blocked and bucket owner is enforced.
+* S3 bucket - Inspected one of the objects in the bucket, and confirmed server side encryption with S3 managed keys are enabled (SSE-S3).
+* Trusted Advisor Security - Confirmed that under my current plan, there are no publicly accessible snapshots or unrestricted access points (S3 / SGs).
+
+
+

@@ -12,6 +12,7 @@
 |CloudWatch|Yes (Basic)|Regional|Monitors resource and application observability|Dashboards, Alarms|
 |CloudTrail|Yes (Basic)|Regional|Enables API auditing, governance, and compliance|Events, Trails|
 |Billing and Cost Management|Yes|Global|Hub for creating, tracking, and inspecting budgets|Budgets, Pricing Calculator|
+|Trusted Advisor|Yes (Basic)|Global|Provides recommendations for following AWS best practices and optimisations|Cost Optimisation, Recommendations|
 
 
 
